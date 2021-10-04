@@ -1,0 +1,27 @@
+.banner{
+    background-image: url(../../img/alimentacao-saudavel.jpg);
+}
+
+table{
+    border-collapse: collapse; /* CSS2 */
+    background: #FFFFF0;
+    width: 100%;
+    max-width: 90%;
+    text-align: center;
+    overflow: auto;
+}
+ 
+table td {
+    border: 1px solid black;
+    padding: 20px 5px;
+}
+ 
+table th {
+    border: 1px solid black;
+    background: #F0FFF0;
+}
+
+.titulo-tabela{
+    margin-top: 40px;
+    font-size: 18px;
+}

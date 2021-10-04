@@ -1,0 +1,260 @@
+[
+    {
+        "id": 0,
+        "title": "Hambúrguer nutritivo",
+
+        "ingredientes": "<b><b>Ingredientes:</b></b> <br> <ul><li>1/2 kg de carne moída;</li><li>1/2 xícara de farelo de aveia;</li><li>1/2 cebola picadinha;</li><li>1/4 xícara de salsinha picada;</li><li>2 colheres (sopa) de semente de linhaça (opcional);</li><li>1 ovo;</li><li>sal à gosto.</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Misture bem todos os ingredientes até formar uma massa, depois vá moldando os hambúrgueres. Em uma frigideira antiaderente, coloque um pinguinho de óleo e grelhe o hambúrguer em fogo médio com tampa. Eles também podem ser congelados por até um mês.",
+
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2anos"
+    },
+    {
+        "id": 1,
+        "title": "Bolinho de arroz com queijo",
+
+        "ingredientes": "<b>Ingredientes:</b> <br> <ul><li>2 xícaras (chá) de arroz já cozido (aproveite as sobras!);</li><li>3 ovos;</li><li>2 colheres (sopa) de salsinha picada;</li><li>3/4 xícara (chá) de farinha de trigo;</li><li>2 colheres (sopa) de semente de linhaça (opcional);</li><li>80g de queijo;</li><li>sal à gosto.</li></ul>",
+        "modoPreparo": " <br> Em um recipiente junte o arroz já cozido com os ovos, a farinha de trigo e a salsinha. Tempere com sal. Com uma colher vá separando porções da massa, coloque um pedaço de queijo o no meio e modele o bolinho. Coloque os bolinhos na frigideira com um pouquinho de óleo no fundo, tampe e vá virando até dourar.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2anos"
+    },
+    {
+        "id": 2,
+        "title": "Chips de batata doce",
+
+        "ingredientes": "<b>Ingredientes:</b> <br> <ul><li>1 batata doce grande;</li><li>1 colher de azeite de oliva;</li><li>orégano e sal à gosto.</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Descasque a batata doce e corte em rodelas finas. Coloque-as em uma forma forrada com papel alumínio e pincele com o óleo, depois tempere com o sal e o orégano. Leve ao forno preaquecido a 180ºC por 15 minutos e retire. Vire os chips e leve de novo ao forno por mais 10-15 minutos. Também podem ser feitos na air fryer.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 3,
+        "title": "Abóbora assada",
+
+        "ingredientes": "<b>Ingredientes:</b> <br> <ul><li>1 abóbora pequena;</li><li>azeite;</li><li>alecrim fresco;</li><li>sal à gosto.</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Lave bem a abóbora e corte em fatias. Coloque-as em uma forma forrada com papel alumínio, salpique o alecrim e o sal e regue com o azeite. Leve ao forno a 180º por uma hora ou até a abóbora esteja macia e levemente dourada.Também podem ser feitas na air fryer.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2anos"
+    },
+    {
+        "id": 4,
+        "title": "Omelete super nutritivo",
+
+        "ingredientes": "<b>Ingredientes:</b> <br> <ul><li>2 ovos;</li><li>2 colheres (sopa) de couve picadinha;</li><li>2 colheres (sopa) de cenoura picadinha;</li><li>Salsinha à gosto;</li><li>Sal à gosto;</li><li>Manteiga para untar.</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Misture bem todos os ingredientes em um recipiente. Coloque a manteiga em uma frigideira em fogo médio até derreter. Coloque a mistura e espere ficar firme até virar e dourar dos dois lados.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2anos"
+    },
+    {
+        "id": 5,
+        "title": "Farofa com cenoura e abobrinha",
+
+        "ingredientes": "<b>Ingredientes:</b> <br> <ul><li>1 xícara (chá) de farinha de milho</li><li>½  xícara (chá) de óleo;</li><li>½  cebola picada;</li><li>1 cenoura média ralada;</li><li>1 abobrinha média ralada;</li><li>½  xícara de salsinha e cebolinha picadas;</li><li>Sal à gosto.</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Aqueça o óleo em uma frigideira grande por 2 minutos em fogo alto até dourar a cebola. Depois acrescente a cenoura e deixe refogar por mais 5 minutos.Junte a abobrinha e refogue até que todos os legumes estejam bem macios. Desligue o fogo, acrescente a farinha, a salsa e a cebolinha, o sal e misture bem.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2anos"
+    },
+    {
+        "id": 6,
+        "title": "Polenta cremosa",
+
+        "ingredientes": "<b>Ingredientes:</b> <br> <ul><li>2 xícaras (chá) de farinha de milho;</li><li>1 colher (sopa) de óleo;</li><li>1 dente de alho picado;</li><li>2 colheres (sopa) de cebola picada;</li><li>1 litro de água;</li><li>Sal à gosto.</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Refogue o alho e a cebola no óleo até dourar. Em seguida adicione a água, o sal e misture. Deixe no fogo médio até levantar fervura. Enquanto isso, coloque a farinha em outro recipiente e adicione água em temperatura ambiente aos poucos e mexendo. Em seguida, adicione essa mistura na panela ao poucos e mexendo com uma colher. Continue mexendo de vez em quando e cozinhe por 30 minutos.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2anos"
+    },
+
+    {
+        "id": 7,
+        "title": "Bolinho de banana com ameixa",
+        "refeicao": "cafeDaManha",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>200g de ameixa seca (sem açúcar)</li><li>200g de farelo de aveia</li><li>3 bananas nanicas maduras</li><li>2 ovos</li><li>Canela à gosto</li><li>1 colher de chá de fermento químico em pó</li><li>⅓ xícara de azeite</li><li>Manteiga para untar</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Hidrate a ameixa seca em água por 30 minutos e despreze a água. Bata no liquidificador a ameixa, as bananas, os ovos e o azeite até formar uma mistura homogênea. Coloque em uma vasilha essa mistura e incorpore com o farelo de aveia, a canela em pó e o fermento em pó. Coloque em forminhas pequenas ou em uma maior untada com manteiga. Leve ao forno pré aquecido a 180º C por 30 minutos. Espere esfriar para desenformar.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 8,
+        "title": "Panquequinha de maçã",
+        "refeicao": "cafeDaManha",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>1 ovo</li><li>2 colheres de sopa de farinha de aveia</li><li>1 colher de sopa de água filtrada</li><li>2 colheres de sopa de purê de maçã ou maçã ralada</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Misture todos os ingredientes com um garfo. Unte uma frigideira com azeite, deixe aquecer em fogo baixo e despeje a mistura. Quando dourar de um lado, vire e deixe dourar do outro. ",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 9,
+        "title": "“Petit suisse” de morango",
+        "refeicao": "cafeDaManha",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>250g de morango (prefira o orgânico)</li><li>2 unidades de inhame</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Descasque o inhame e corte em cubos médios. Depois, cozinhe em uma panela com água até que fique bem macio. Guarde o inhame cozido na geladeira. Após esfriar bata o inhame no liquidificador ou processador com os morangos higienizados. Coloque em potinhos ou copinhos a mistura e deixe gelar.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 10,
+        "title": "Polvilho de cenoura",
+        "refeicao": "cafeDaManha",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>3 colheres de sopa de polvilho doce (ou azedo)</li><li>1 colher de sopa de purê de cenoura</li><li>1 colher de sobremesa de azeite</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Cozinhe a cenoura e amasse com o garfo ou com o mixer. Refogue o purê com um fio de azeite. Coloque a mistura em um recipiente e acrescente polvilho aos poucos, até formar uma massa uniforme e moldável. Sove levemente. Unte uma forma, modele como preferir e asse em forno pré-aquecido a 200° por 15 minutos. ",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 10,
+        "title": "Crepioca de cenoura",
+        "refeicao": "cafeDaManha",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>1 ovo</li><li>1 cenoura pequena cozida e amassada</li><li>1 colher de sopa de massa de tapioca</li><li>Orégano a gosto</li><li>Azeite</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Em um recipiente, misture bem com um garfo ou fouet o ovo, a cenoura amassada, a tapioca e o orégano. Em uma frigideira antiaderente, coloque a massa e deixe dourar os 2 lados.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 11,
+        "title": "Papinha de carne, batata e abóbora",
+        "refeicao": "almoco",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>1 colher de sobremesa de óleo</li><li>½ cebola picada</li><li>1 dente de alho pequeno</li><li>2 colheres de sopa de carne moída</li><li>1 batata pequena cortada em cubos</li><li>1 inhame pequeno cortado em cubos</li><li>2 colheres de sopa de abóbora cortada em cubos</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Em uma panela, aqueça o óleo e refogue a cebola, o alho e a carne moída. <br> Em seguida, acrescente a batata, o inhame e abóbora. Cubra com água, tampe a panela e cozinhe até que todos ingredientes estejam macios e com um pouco de caldo. Depois de pronto, amasse tudo grosseiramente com o garfo e sirva.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 12,
+        "title": "Creme de abóbora",
+        "refeicao": "almoco",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>80grs de batata doce (cerca de um terço de uma inteira) </li><li>100grs de abóbora</li><li>1 colher de chá de azeite</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Descasque, lave e corte a batata doce e a abóbora em cubinhos. Coloque em uma panela com água para ferver e deixar cozinhar por 20 minutos. Em seguida, escorra a água em excesso e bata os ingredientes usando o liquidificador ou o mix até ter um creme aveludado. Finalize com azeite. ",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 13,
+        "title": "Bolinho de arroz e feijão",
+        "refeicao": "almoco",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>Arroz e feijão cozidos </li><li>Azeite</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Cozinhe arroz e o feijão com os temperos de preferência. Junte uma colher de sopa de arroz e uma de feijão sem o caldo, amasse levemente e faça uma bolinha. Em seguida, unte uma forma com azeite e leve ao forno pré-aquecido a 180ºC por aproximadamente 5 a 10 minutos.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 14,
+        "title": "Croquete de frango com quinoa",
+        "refeicao": "almoco",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>1/3 xícara de chá de quinoa</li><li>1 filé de peito de frango cozido e desfiado</li><li>1 xícara de chá de mandioquinha amassada</li><li>1 cebola pequena</li><li>2 dentes de alho</li><li>1 colher de sopa de aveia em flocos finos</li><li>¼ de xícara de cebolinha </li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Refogue a cebola e o alho com um pouco de azeite, coloque a quinoa lavada e refogue mais um pouco. Adicione uma xícara de água e deixe cozinhar até ficar macia. Descasque a mandioquinha, cozinhe bem e amasse. Junte todos os ingredientes com o frango desfiado em uma tigela e misture. <br> Para modelar, umedeça as mãos com água, retire uma porção de massa e modele no formato desejado. Coloque os croquetes em uma assadeira untada com azeite. Asse em forno pré-aquecido a 200ºC por cerca de 20 minutos e vire na metade do tempo para assar os dois lados.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 15,
+        "title": "Omelete com tomate e cenoura",
+        "refeicao": "almoco",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>1 ovo grande </li><li>2 colheres de sopa de cenoura ralada </li><li>2 colheres de tomate bem picado </li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Bata o ovo, adicione a cenoura o tomate e tempere à gosto. Coloque um fio de azeite em uma frigideira quente, despeje a massa e deixe até dourar.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 16,
+        "title": "Bolinho de milho",
+        "refeicao": "almoco",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>1 espiga de milho</li><li>1/2 cebola pequena</li><li>1 dente de alho</li><li>Temperinhos à gosto</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Bata no mixer um pouco mais da metade do milho e restante dos ingredientes. Adicione o restante do milho e misture. Coloque pequenas porções da massa em uma frigideira antiaderente e deixe dourar dos dois lados. ",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 17,
+        "title": "Bolinho de arroz, couve flor e abobrinha",
+        "refeicao": "almoco",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>2 ovos</li><li>3 brotos de couve flor cozidos picadinhos</li><li>2 fatias grossas de abobrinha crua picadinhas</li><li>3 colheres de sopa de arroz integral cozido</li><li>1 colher de sobremesa de azeite de oliva</li><li>1 colher chá de chia ou linhaça</li><li>Temperos a gosto (salsinha, orégano, cebolinha…)</li><li>1 colher de chá de fermento químico</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Bata os ovos com ajuda de um garfo ou fouet. Adicione o restante dos integrantes e, em seguida, misture. Coloque em forminhas de cupcake de silicone e leve para assar em forno 180ºC por aproximadamente 20 minutos.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 18,
+        "title": "Frango com batata-doce, escarola e beterraba",
+        "refeicao": "almoco",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>100 gramas de peito de frango </li><li>1 batata-doce pequena </li><li>Meia beterraba </li><li>2 folhas de escarola cortadas em tiras</li><li>¼ de cebola picada </li><li>Água filtrada </li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Cozinhe as batatas, furando a casca antes com um garfo para que ela não retraia. Corte ao meio no sentido do comprimento, retire a polpa da batata e coloque em um recipiente. Amasse com o garfo, misture o espinafre, a cebola e a ricota. Recheie a canoa. Leve ao forno até dourar. Sirva em seguida. Se achar melhor, amasse a preparação com o garfo.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 19,
+        "title": "Canoa de batata com espinafre",
+        "refeicao": "almoco",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>4 batatas grandes cozidas </li><li>1 maço de espinafre cozido e picado </li><li>1 colher (chá) de cebola ralada </li><li>1 colher (sopa) de ricota</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Em uma panela com um fio de óleo vegetal ou azeite, refogue o peito de frango em pedaços até começar a dourar. Acrescente a batata-doce e a beterraba descascadas e cortadas. Adicione água até cobrir os ingredientes, tampe e deixe no fogo até que tudo esteja cozido. Reserve e, enquanto esfria, refogue a cebola na mesma panela com mais um fio de azeite. Junte a escarola e mexa até que murche. Para finalizar, pique a escarola e faça então o prato com o resto dos ingredientes cozidos. <br> Uma outra opção é trocar a batata-doce por mandioquinha e a escarola por brócolis. Nesse caso, acrescente o brócolis nos dois últimos minutos de cozimento. ",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    },
+    {
+        "id": 19,
+        "title": "Muffin salgado de legumes com queijo",
+        "refeicao": "almoco",
+
+        "ingredientes": "<b>Ingredientes:</b> <br><ul><li>1 ovo</li><li>½ abobrinha ralada</li><li>½ cenoura pequena ralada</li><li>80g de queijo parmesão ralado</li><li>1 colher de sopa de linhaça marrom</li><li>1 colher de sobremesa de psyllium</li><li>1 tomate picado</li><li>1 cebola roxa picada</li><li>1 cebola roxa picada</li><li>1 colher de fermento em pó</li><li>1 pitada de sal</li><li>1 pitada de orégano</li></ul>",
+        "modoPreparo": "<b>Modo de preparo:</b> <br><br> Coloque a abobrinha e a cenoura ralada em uma tigela, acrescente o tomate picado, a cebola roxa picada e o ovo. Mexa bem até que todos os ingredientes estejam misturados. Adicione o orégano, o sal, queijo parmesão, a linhaça, o psyllium, por último o fermento e mexa novamente. Coloque em forminhas de cupcakes ou de silicone. Leve ao forno médio por 30 minutos.",
+        
+        "link": "../../itens/item.html",
+        "type": "Receitas",
+        "idade": "2a6anos"
+    }
+]

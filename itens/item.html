@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca Foster</title>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="item.css">
+    <link rel="stylesheet" href="../main.css">
+</head>
+
+<body>
+    <div id="loading" style="display:inline">
+        <div>
+            <img src="../img/loading-gif.gif" alt="">
+            <span>Carregando...</span>
+        </div>
+    </div>
+
+
+    <div id="conteudo" class="container" style="display:none">
+        <header>
+            <i class="fas fa-bars" id="hamb-menu" onclick="openMenu()"></i>
+        
+            <div class="logo">
+                <a href="../../index.html"><img src="../../img/icone.png" alt="Logo"></a>
+                <h1 class="nome-site"><a href="../index.html">Alimentação Saudável</a></h1>
+            </div>
+        
+            <nav id="nav">
+                <i class="fas fa-times" id="close-menu" onclick="closeMenuFunction()"></i>
+        
+                <a href="../index.html" class="nav__link active-link"><i class="fas fa-home"></i></a>
+                <a href="../paginas/dicas/dicas.html">Dicas</a>
+                <a href="../paginas/importancia-alimentacao/importancia-alimentacao.html">Importância da alimentação</a>
+                <a href="../paginas/receitas/receitas.html">Receitas</a>
+                <a href="../paginas/sugestoes-cardapio/sugestoes-cardapio.html">Sugestões de cardápio</a>
+            </nav>
+        </header>
+        
+        <h2 class="breadcrumbs"><span id="categoria"></span> / <span id="title"></span></h2>
+        
+        <div class="sobre">
+            <img src="../img/teste-thumb.png" alt="">
+            <div class="sobre-text">
+                <h2 id="titulo"></h2>
+
+                <p id="description"></p>
+        
+                <p id="description2"></p>
+                
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://kit.fontawesome.com/bb176450ad.js" crossorigin="anonymous"></script>
+    <script src="item.js"></script>
+    <script src="../main.js"></script>
+
+</body>
+
+</html>

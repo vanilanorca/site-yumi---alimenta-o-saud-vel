@@ -1,0 +1,64 @@
+.breadcrumbs{
+    font-size: 22px;
+    margin: 50px 0;
+    color: #30925c;
+    text-align: left;
+    align-self: flex-start;
+    padding-left: 10%;
+}
+
+.sobre{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+.sobre img{
+    max-width: 800px;
+    height: 200px;
+    width: 100%;
+}
+
+.sobre-text{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-bottom: 60px;
+}
+
+@media (max-width: 790px){
+    .sobre-text{
+        width: 80%;
+    }
+
+    .breadcrumbs{
+        padding-left: 5%;
+    }
+}
+
+.sobre-text h2{
+    color: #30925c;
+    font-size: 25px;
+    width: 100%;
+    text-align: center;
+}
+
+.sobre-text .button{
+    display: inline-block;
+    padding: 5px 15px;
+    border-radius: 10px;
+    margin: 30px 0;
+    border: 1px solid #B50000;
+    align-self: center;
+    transition: .5s;
+}
+
+.sobre-text .button:hover{
+    background:  #B50000;
+    color: white;
+}

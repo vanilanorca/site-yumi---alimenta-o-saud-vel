@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alimentação Saudável</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Yaldevi:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="main.css">
+</head>
+<body id="body">
+
+
+    <div id="loading" style="display:inline">
+        <div>
+            <img src="../img/loading-gif.gif" alt="">
+            <span>Carregando...</span>
+        </div>
+    </div>
+
+    <div class="container">
+        <header>
+            <i class="fas fa-bars" id="hamb-menu" onclick="openMenu()"></i>
+
+            <div class="logo">
+                <a href="index.html"><img src="img/icone.png" alt="Logo"></a>
+                <h1 class="nome-site"><a href="../index.html">Alimentação Saudável</a></h1>
+            </div>
+
+            <nav id="nav">
+                <i class="fas fa-times" id="close-menu" onclick="closeMenuFunction()"></i>
+                <a href="#" class="nav__link active-link"><i class="fas fa-home"></i></a>
+                <a href="paginas/dicas/dicas.html">Dicas</a>
+                <a href="paginas/importancia-alimentacao/importancia-alimentacao.html">Importância da alimentação</a>
+                <a href="paginas/receitas/receitas.html">Receitas</a>
+                <a href="paginas/sugestoes-cardapio/sugestoes-cardapio.html">Sugestões de cardápio</a>
+            </nav>
+        </header>
+
+        <div class="introducao">
+            <h2 class="titulo-aba">Introdução</h2>
+            <p>Sejam muito bem vindos ao nosso site, somos estudantes da Universidade São Judas Tadeu e esse site faz parte do projeto
+            Tecnologia para Comunidade e Inclusão, com o objetivo orientar os pais com dicas e receitas para fornecerem uma
+            alimentação saudável para seus filhos.</p>
+
+            <p>Proporcionar e incentivar hábitos alimentares saudáveis desde criança é uma das melhores maneiras de garantir um adulto
+            com saúde, pois os costumes adquiridos na infância podem segui-los por toda vida, podendo evitar problemas desde o
+            desenvolvimento e desempenho escolar até casos de depressão na adolescência.</p>
+        </div>
+    </div>
+
+    
+    <script src="https://kit.fontawesome.com/bb176450ad.js" crossorigin="anonymous"></script>
+    <script>
+        window.onload = (function () {
+                document.getElementById("loading").style.display = "none";
+                document.getElementById("body").style.display = "inherit";
+            })
+    </script>
+    <script src="main.js"></script>
+
+</body>
+</html>
