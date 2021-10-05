@@ -2,13 +2,19 @@
     background-image: url(../../img/alimentacao-saudavel.jpg);
 }
 
+.table-container{
+    width: 90%;
+    max-width: 100vw;
+    overflow: auto;
+}
+
 table{
     border-collapse: collapse; /* CSS2 */
     background: #FFFFF0;
     width: 100%;
     max-width: 90%;
     text-align: center;
-    overflow: auto;
+    overflow: hidden;
 }
  
 table td {
@@ -24,4 +30,20 @@ table th {
 .titulo-tabela{
     margin-top: 40px;
     font-size: 18px;
+}
+
+@media (max-width: 790px){
+    table{
+        font-size: .8rem;
+    }
+    .titulo-tabela{
+        text-align: center;
+        padding: 0 25px;
+        font-size: .8rem;
+    }
+}
+@media (max-width: 470px){
+    table{
+        font-size: .5rem;
+    }
 }
