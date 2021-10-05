@@ -220,14 +220,19 @@ nav div a:hover{
     background: #fff;
 }
 #loading img{
-    max-width: 200px;
+    max-width: 150px;
+    animation: loadingImage 5s linear infinite;
 }
 #loading span{
-    color: #B50000;
+    color: #3CB371;
     font-weight: bold;
     font-style: italic;
     animation: loadingText 1.8s infinite;
-    margin-top: -20px;
+    margin-top: 10px;
+}
+@keyframes loadingImage {
+  from   {transform: rotate(0);}
+  to {transform: rotate(360deg);}
 }
 @keyframes loadingText {
   0%   {opacity: 0;}
