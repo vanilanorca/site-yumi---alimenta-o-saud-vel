@@ -13,7 +13,7 @@ getData();
 
 
 function getData() {
-    return fetch("../../armazenamento.json")
+    return fetch("../../JSON/armazenamento.json")
         .then(function (resp) {
             return resp.json();
         })
@@ -50,7 +50,7 @@ function filtrarIdade(e){
     content.innerText = "";
     
     if(e.target.id == "2anos"){
-        fetch("../../armazenamento.json")
+        fetch("../../JSON/armazenamento.json")
                 .then(function (resp) {
                     return resp.json();
                 })
@@ -62,7 +62,7 @@ function filtrarIdade(e){
     }
     
     else if(e.target.id == "2a6anos"){
-        fetch("../../armazenamento.json")
+        fetch("../../JSON/armazenamento.json")
                 .then(function (resp) {
                     return resp.json();
                 })
