@@ -1,7 +1,13 @@
-window.onload = (function () {
+// LOADING
+function load (){
     document.getElementById("loading").style.display = "none";
-    document.getElementById("conteudo").style.display = "inline";
-})
+    document.getElementById("body").style.display = "inherit";
+}
+
+window.onload = (function () {
+    window.setInterval('load()',2000);})
+
+
 
 var myInit = {
     method: 'GET',

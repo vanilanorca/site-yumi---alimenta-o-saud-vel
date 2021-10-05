@@ -1,8 +1,11 @@
 // LOADING
+function load (){
+    document.getElementById("loading").style.display = "none";
+    document.getElementById("body").style.display = "inherit";
+}
+
 window.onload = (function () {
-        document.getElementById("loading").style.display = "none";
-        document.getElementById("body").style.display = "inherit";
-    })
+    window.setInterval('load()',2000);})
 
 
 
