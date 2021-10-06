@@ -92,6 +92,12 @@ nav div a:hover{
     max-width: 230px;
     margin-top: 20px;
     filter: drop-shadow(4px 4px 6px black);
+    animation: logo 3s linear infinite;
+}
+@keyframes logo {
+  0%   {transform: scale(1);}
+  50% {transform: scale(1.2);}
+  100% {transform: scale(1)}
 }
 
 .introducao{
@@ -110,6 +116,8 @@ nav div a:hover{
     font-size: 30px;
     text-align: center;
     color: #30925c;
+    text-decoration-line: underline;
+    text-decoration-color: #30925c;
 }
 
 .banner{
