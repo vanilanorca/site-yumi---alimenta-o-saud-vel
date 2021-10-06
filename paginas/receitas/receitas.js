@@ -44,6 +44,7 @@ function buildSite(data) {
 // ====== radio filter ======
 var Doisanos = document.getElementById("2anos")
 var DoisASeisAnos = document.getElementById("2a6anos")
+var todas = document.getElementById("todas")
 
 function filtrarIdade(e){
     var content = document.getElementById("content");
@@ -68,6 +69,18 @@ function filtrarIdade(e){
                 })
                 .then(function (data) {
                     this.data = data.filter(projeto => projeto.idade == "2a6anos");
+
+                    buildSite(this.data);
+                })
+    }
+
+    else if(e.target.id == "todas"){
+        fetch("../../JSON/armazenamento.json")
+                .then(function (resp) {
+                    return resp.json();
+                })
+                .then(function (data) {
+                    this.data = data.filter(projeto => projeto.type == "Receitas");
 
                     buildSite(this.data);
                 })

@@ -175,6 +175,8 @@ nav div a:hover{
 
     .nome-site{
         text-align: center;
+        font-size: 25px;
+        padding: 0 20px;
     }
 
     nav{
@@ -208,6 +210,24 @@ nav div a:hover{
         text-align: center;
         letter-spacing: 1px;
         font-weight: 600;
+    }
+
+    .conteudo-json{
+        font-size: .8rem;
+        max-width: 40%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 15px;
+    }
+
+    .banner{
+        margin-top: 20px;
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        max-width: 80%;
+        min-height: 200px;
     }
 }
 
