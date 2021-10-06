@@ -1,11 +1,12 @@
 // LOADING
 function load (){
     document.getElementById("loading").style.display = "none";
-    document.getElementById("body").style.display = "inherit";
+    document.getElementById("itemcontainer").style.display = "inherit";
 }
 
 window.onload = (function () {
-    window.setInterval('load()',2000);})
+    window.setInterval('load()',1500);})
+    
 
 
 
@@ -25,7 +26,7 @@ var data;
 getData();
 
 function getData() {
-    return fetch("../../JSON/armazenamento.json")
+    return fetch("../JSON/armazenamento.json")
         .then(function (resp) {
             return resp.json();
         })

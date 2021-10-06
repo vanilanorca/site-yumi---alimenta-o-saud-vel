@@ -21,7 +21,7 @@ body{
     width: 100%;
     max-width: 1640px;
     
-    display: flex;
+    display: none;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -173,6 +173,10 @@ nav div a:hover{
         min-height: 300px
     }
 
+    .nome-site{
+        text-align: center;
+    }
+
     nav{
         background: #133623ef;
         flex-direction: column;
@@ -221,7 +225,7 @@ nav div a:hover{
 }
 #loading img{
     max-width: 150px;
-    animation: loadingImage 5s linear infinite;
+    animation: loadingImage 2s linear infinite;
 }
 #loading span{
     color: #3CB371;

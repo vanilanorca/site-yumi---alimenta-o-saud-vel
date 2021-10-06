@@ -1,11 +1,11 @@
 // LOADING
 function load (){
     document.getElementById("loading").style.display = "none";
-    document.getElementById("body").style.display = "inherit";
+    document.getElementById("container").style.display = "inherit";
 }
 
 window.onload = (function () {
-    window.setInterval('load()',2000);})
+    window.setInterval('load()',1500);})
 
 
 
