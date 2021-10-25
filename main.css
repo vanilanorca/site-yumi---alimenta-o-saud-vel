@@ -233,9 +233,9 @@ nav div a:hover{
         margin-top: 20px;
         background-position: center;
         background-size: cover;
-        width: 100%;
+        min-width: 95%;
         max-width: 80%;
-        min-height: 200px;
+        min-height: 230px;
     }
 }
 

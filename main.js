@@ -5,7 +5,7 @@ function load (){
 }
 
 window.onload = (function () {
-    window.setInterval('load()',1500);})
+    window.setInterval('load()',400);})
 
 
 

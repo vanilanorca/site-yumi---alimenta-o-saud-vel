@@ -1,3 +1,85 @@
+body{
+    background: #ffffff!important;
+}
+
 .banner{
     background-image: url(../../img/2.DICAS.jpg);
+}
+
+.introducao{
+    margin-top: 0;
+}
+
+h3{
+    color: #30925c;
+    text-decoration: underline;
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+
+h3:nth-child(1){
+    margin-top: 0;
+}
+
+p{
+    margin-top: 0;
+}
+
+.no-bullets{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.no-bullets li{
+    margin-top: 10px;
+}
+
+.margin-top{
+    margin-top: 60px;
+}
+
+ul li{
+    margin-top: 20px;
+}
+
+.tabela-img{
+    max-width: 100%;
+}
+
+.piramide-img{
+    max-width: 60%;
+    display: block;
+    margin: 20px auto;
+}
+
+.imagens-alimentos{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.imagens-alimentos img{
+    max-width: 250px;
+    height: 200px;
+}
+.imagens-alimentos img:nth-child(4), .imagens-alimentos img:nth-child(5){
+    margin-top: 20px;
+}
+
+@media (max-width: 720px){
+    .imagens-alimentos img{
+        margin-top: 20px;
+        width: 100%;
+    }
+}
+
+.fontes{
+    display: flex;
+    flex-direction: column;
+}
+.fontes a{
+    margin-top: 20px;
+    color: #30925c;
+    word-break: break-all;
+    text-decoration: underline;
 }
