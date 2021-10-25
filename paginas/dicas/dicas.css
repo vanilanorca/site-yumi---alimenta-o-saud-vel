@@ -72,14 +72,3 @@ ul li{
         width: 100%;
     }
 }
-
-.fontes{
-    display: flex;
-    flex-direction: column;
-}
-.fontes a{
-    margin-top: 20px;
-    color: #30925c;
-    word-break: break-all;
-    text-decoration: underline;
-}
