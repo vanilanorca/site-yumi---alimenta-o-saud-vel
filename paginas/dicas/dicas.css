@@ -57,13 +57,10 @@ ul li{
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
+    gap: 20px;
 }
 .imagens-alimentos img{
     max-width: 250px;
-    height: 200px;
-}
-.imagens-alimentos img:nth-child(4), .imagens-alimentos img:nth-child(5){
-    margin-top: 20px;
 }
 
 @media (max-width: 720px){
