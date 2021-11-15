@@ -66,6 +66,8 @@ function buildSite(data) {
         document.getElementById("titulo").innerHTML = projeto.title;
         document.getElementById("description").innerHTML = projeto.ingredientes;
         document.getElementById("description2").innerHTML = projeto.modoPreparo;
+        document.getElementById("banner-alimento").style.backgroundImage = projeto.imagem
+        
 
     });
 }

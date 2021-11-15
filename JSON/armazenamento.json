@@ -8,7 +8,9 @@
 
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2anos"
+        "idade": "2anos",
+
+        "imagem": "url(../img/alimentos/hamburguer-nutritivo.jpg)"
     },
     {
         "id": 1,
@@ -19,7 +21,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2anos"
+        "idade": "2anos",
+        "imagem": "url(../img/alimentos/bolinho-de-arroz-com-queijo.jpg)"
     },
     {
         "id": 2,
@@ -30,7 +33,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/batata-doce-chips.jpg)"
     },
     {
         "id": 3,
@@ -41,7 +45,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2anos"
+        "idade": "2anos",
+        "imagem": "url(../img/alimentos/abobora-assada.jpg)"
     },
     {
         "id": 4,
@@ -52,7 +57,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2anos"
+        "idade": "2anos",
+        "imagem": "url(../img/alimentos/omelete-nutritivo.jpg)"
     },
     {
         "id": 5,
@@ -63,7 +69,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2anos"
+        "idade": "2anos",
+        "imagem": "url(../img/alimentos/farofa-com-cenoura-e-abobrinha.jpg)"
     },
     {
         "id": 6,
@@ -74,7 +81,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2anos"
+        "idade": "2anos",
+        "imagem": "url(../img/alimentos/polenta-cremosa.jpeg)"
     },
 
     {
@@ -87,7 +95,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/bolinho-de-banana-com-ameixa.jpg)"
     },
     {
         "id": 8,
@@ -99,7 +108,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/panquequinha-de-maca.jpg)"
     },
     {
         "id": 9,
@@ -111,7 +121,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/petit-suisse-de-morango.jpg)"
     },
     {
         "id": 10,
@@ -123,7 +134,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/polvilho-de-cenoura.jpg)"
     },
     {
         "id": 11,
@@ -135,7 +147,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/crepioca-de-cenoura.jpg)"
     },
     {
         "id": 12,
@@ -147,7 +160,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/papinha-de-carne-batata-e-abobora.jpg)"
     },
     {
         "id": 13,
@@ -159,7 +173,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/creme-de-abobora.jpg)"
     },
     {
         "id": 14,
@@ -171,7 +186,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/bolinho-de-arroz-e-feijao.jpg)"
     },
     {
         "id": 15,
@@ -183,7 +199,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/croquete-de-frango-com-quinoa.jpg)"
     },
     {
         "id": 16,
@@ -195,7 +212,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/omelete-com-tomate-e-cenoura.jpg)"
     },
     {
         "id": 17,
@@ -207,7 +225,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/bolinho-de-milho.jpg)"
     },
     {
         "id": 18,
@@ -219,7 +238,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/bolinho-de-arroz-couve-flor-e-abobrinha.jpg)"
     },
     {
         "id": 19,
@@ -231,7 +251,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/frango-com-batata-doce-escarola-e-beterraba.jpg)"
     },
     {
         "id": 20,
@@ -243,7 +264,8 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/canoa-de-batata-com-espinafre.jpg)"
     },
     {
         "id": 21,
@@ -255,6 +277,7 @@
         
         "link": "../../itens/item.html",
         "type": "Receitas",
-        "idade": "2a6anos"
+        "idade": "2a6anos",
+        "imagem": "url(../img/alimentos/muffin-salgado-de-legumes-com-queijo.jpg)"
     }
 ]
