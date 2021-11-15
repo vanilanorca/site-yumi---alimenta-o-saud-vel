@@ -15,4 +15,18 @@
     .escolha{
         font-size: .8rem;
     }
+
+    #content{
+        width: 100%;
+    }
+    #content a{
+        max-width: 40%;
+    }
+}
+
+@media (max-width: 520px){
+    #content{
+        flex-direction: column;
+        align-items: center;
+    }
 }
