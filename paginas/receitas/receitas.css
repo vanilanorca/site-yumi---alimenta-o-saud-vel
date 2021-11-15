@@ -29,4 +29,8 @@
         flex-direction: column;
         align-items: center;
     }
+    #content a{
+        max-width: 80%;
+        width: 100%;
+    }
 }
