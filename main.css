@@ -8,6 +8,10 @@ a{
     text-decoration: none;
 }
 
+p, li{
+    text-align: justify;
+}
+
 body{
     display: flex!important;
     flex-direction: column;
